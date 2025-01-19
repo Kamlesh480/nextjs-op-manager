@@ -34,3 +34,11 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+# prisma Studio
+<img width="1379" alt="image" src="https://github.com/user-attachments/assets/4deba6a1-3e9c-49c8-a386-f1ed815af71d" />
+# Dashboard
+<img width="1438" alt="image" src="https://github.com/user-attachments/assets/1d8d992f-166e-4294-ac86-05580fa506a8" />
+# Signup and Login
+<img width="1406" alt="image" src="https://github.com/user-attachments/assets/9bf2f38d-4aea-4d10-bbbd-d9c37adb109e" />
+<img width="1398" alt="image" src="https://github.com/user-attachments/assets/a32944cf-18ce-451e-b810-10f5cf340811" />
