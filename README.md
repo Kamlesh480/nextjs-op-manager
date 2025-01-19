@@ -55,6 +55,8 @@ Key Technologies and Concepts:
   1. Leveraged the latest Next.js features for optimal performance and developer experience.
   2. Implemented server-side rendering (SSR) and static site generation (SSG) for improved SEO and faster load times.
   3. Utilized Next.js API routes for serverless backend functionality.
+     ![image](https://github.com/user-attachments/assets/306d1d55-9ec5-455d-b206-cc7afd993650)
+
 
 ## React 18: <br>
   1. Developed reusable and performant functional components.
